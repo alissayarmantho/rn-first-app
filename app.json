@@ -16,11 +16,14 @@
     "assetBundlePatterns": [
       "**/*"
     ],
-    "ios": {
-      "supportsTablet": true
-    },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "android": {
+      "package": "com.trial.rnfirstapp",
+      "versionCode": 1
+    },
+    "description": "Trial app for practice",
+    "githubUrl": "https://github.com/alissayarmantho/rn-first-app"
   }
 }
